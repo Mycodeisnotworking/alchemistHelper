@@ -98,6 +98,21 @@ var productionCost={
         mat2unitPrice: Number.max,
         mat2place: "경매장"
      }//성스러운 축복
+     ,
+     "highenrichmentstrengthpotion":{
+        cost: 0,
+        name: "고농축 힘의 비약",
+        place: "경매장",
+        mat1: "생명의 숨결",
+        mat1count: 5,
+        mat1unitPrice: Number.max,
+        mat1place: "경매장",
+        mat2: "황금 가루",
+        mat2count: 7,
+        mat2unitPrice: Number.max,
+        mat2place: "경매장"
+
+     }
 }
 
 module.exports=productionCost;

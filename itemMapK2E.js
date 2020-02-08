@@ -6,5 +6,6 @@ itemMap.set("노련한 영혼의 정수", "essenceofveteranghost");
 itemMap.set("강인한 영혼의 정수","essenceofrobustghost");
 itemMap.set("피로 회복의 영약","fatiguerestorationpotion");
 itemMap.set("성스러운 축복", "holyblessing");
+itemMap.set("고농축 힘의 비약", "highenrichmentstrengthpotion");
 
 module.exports=itemMap;

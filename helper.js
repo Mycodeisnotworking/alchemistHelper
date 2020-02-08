@@ -9,7 +9,7 @@ var elementList=new Array();
 setTimeout(()=>{
     getElement();
     try{
-        var productList=["피로 회복의 영약", "성스러운 축복"];
+        var productList=["피로 회복의 영약", "성스러운 축복", "고농축 힘의 비약"];
         var resultList=[];
         var sellingPrice=[];
         var profit=[];
